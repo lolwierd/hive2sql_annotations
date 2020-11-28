@@ -1,5 +1,2 @@
-import 'package:hive2sqlAnnotations/hive2sqlAnnotations.dart' as hive2sqlAnnotations;
-
-void main(List<String> arguments) {
-  print('Hello world: ${hive2sqlAnnotations.calculate()}!');
-}
+import 'package:hive2sql_annotations/hive2sql_annotations.dart'
+    as hive2sqlAnnotations;
