@@ -13,8 +13,7 @@ class Hive2SQLType {
 
 // Annotation for parsing HiveField
 class Hive2SQLField {
-  final int id;
-  const Hive2SQLField(this.id);
+  const Hive2SQLField();
 }
 
 class NullableSQL {
